@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rediet Gebretsion
 - 👀 I’m interested in Front End development,Back End development, Semantic Web, IOT, Multi agent
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m computer science Master graduate 
+- 📫 How to reach me 
+    📧redugebretsion@gmail.com
 
 <!---
 redigebretsi/redigebretsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
